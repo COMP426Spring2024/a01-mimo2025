@@ -1,0 +1,82 @@
+/* Style The Love Diary's Homepage/Website Constants */
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+}
+
+.image {
+    width: 190px;
+    height: auto;
+    margin: 20px;
+}
+
+.paragraph {
+    margin: 20px;
+    text-align: center;
+}
+
+.header {
+    text-align: center;
+}
+
+* {
+    cursor: url(https://cur.cursors-4u.net/symbols/sym-1/sym49.cur), auto !important;
+}
+
+.p3 {
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+#p1 {
+    font-family: "gill sans", sans-serif;
+}
+
+#heart img:hover {
+    transform: scale(1.4);
+}
+
+.footer {
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+/* Style Aphrodite's Family Tree Page */
+
+.table {
+    margin: 30px;
+    text-align: center;
+}
+
+table.table thead th {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+table.table tbody td {
+    border: 1px solid black;
+    padding: 10px; 
+}
+
+.th {
+    border: 1px solid black;
+    padding: 10px; 
+}
+
+.imageh {
+    width: 600px;
+    height: auto;
+}
+
+#headerRow {
+    background-color: #f2a8c8;
+}
+
+#paragraph {
+    background-color: #eac8fc;
+    border: 3px solid #66047c;
+    padding: 20px; 
+}
+
+/* Style Aphrodite's Chapel Hill Hot Spots Page */
